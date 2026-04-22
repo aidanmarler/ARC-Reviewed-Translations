@@ -1,0 +1,398 @@
+Microorganism,Code,Library,Type,Selected,preset_ARChetype Disease CRF_Covid,preset_ARChetype Disease CRF_Dengue,preset_ARChetype Disease CRF_Mpox,preset_ARChetype Disease CRF_Mpox Pregnancy and Paediatric,preset_ARChetype Disease CRF_H5Nx,preset_Syndrome_VHF,preset_ARChetype Disease CRF_Mpox-Pregnancy&Paediatrics,preset_ARChetype Syndromic CRF_Arbovirus,preset_ARChetype Syndromic CRF_ARI,preset_Recommended Outcomes_Dengue,preset_User Generated CRF_Encephalitis,preset_ARChetype Disease CRF_Chikungunya,Comment,Value,Translation Reviewers
+Achromobactérie,91620006.0,SNOMED,bacteria,,,,,,,,,,,,,,,1,0
+Achromobacter xylosoxydans,413424009.0,SNOMED,bacteria,,,,,,,,,,,,,,,2,0
+Acinétobactérie,7757008.0,SNOMED,bacteria,,,,,,,,,,,,,,,3,0
+Acinetobacter anitratus,82550008.0,SNOMED,bacteria,,,,,,,,,,,,1.0,,,4,0
+Acinetobacter baumannii,91288006.0,SNOMED,bacteria,,,,,,,,,,,,,,,5,0
+Acinetobacter calcoaceticus,413398000.0,SNOMED,bacteria,,,,,,,,,,,,,,,6,0
+Complexe Acinetobacter calcoaceticus-baumannii,113376007.0,SNOMED,bacteria,,,,,,,,,,,,,,,7,0
+Acinetobacter johnsonii,252000.0,SNOMED,bacteria,,,,,,,,,,,,,,,8,0
+Acrémonium,63996006.0,SNOMED,fungi,,,,,,,,,,,,,,,9,0
+Actinomyces israélien,46369004.0,SNOMED,bacteria,,,,,,,,,,,,,,,10,0
+Adénoviridés,424470006.0,SNOMED,virus,,,,,,,,1.0,,1.0,,1.0,,,11,0
+Aéromonas,88529008.0,SNOMED,bacteria,,,,,,,,,,,,,,,12,0
+Agrégatibactérie,441718002.0,SNOMED,bacteria,,,,,,,,,,,,,,,13,0
+Bactéries anaérobies,59343002.0,SNOMED,bacteria,,,,,,,,,,,,,,,14,0
+Ancylostome duodénal,81559006.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,15,0
+Orthohantavirus des Andes,442001008.0,SNOMED,virus,,,,,,,,,,,,,,,16,0
+Arénaviridés,243624009.0,SNOMED,virus,,,,,,,,,,,,,,,17,0
+Ascaris lumbricoides,19061001.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,18,0
+Aspergille,2429008.0,SNOMED,fungi,,,,,,,,,,,,1.0,,,19,0
+Aspergillus flavus,66821001.0,SNOMED,fungi,,,,,,,,,,,,,,,20,0
+Aspergillus fumigatus,32684000.0,SNOMED,fungi,,,,,,,,,,,,,,,21,0
+Complexe Aspergillus fumigatus,719029007.0,SNOMED,fungi,,,,,,,,,,,,,,,22,0
+Aspergillus niger,89354002.0,SNOMED,fungi,,,,,,,,,,,,,,,23,0
+Aspergillus terreus,26406003.0,SNOMED,fungi,,,,,,,,,,,,,,,24,0
+Aspergillus versicolor,48315007.0,SNOMED,fungi,,,,,,,,,,,,,,,25,0
+Astroviridés,424055004.0,SNOMED,virus,,,,,,,,,,,,,,,26,0
+Grippe aviaire A H5N1,772827006.0,SNOMED,virus,,,,,,,,,,,,,,,27,0
+Grippe aviaire A H7N9,609444009.0,SNOMED,virus,,,,,,,,,,,,,,,28,0
+Bacille,44762009.0,SNOMED,bacteria,,,,,,,,,,,,,,,29,0
+Bacille anthracis,21927003.0,SNOMED,bacteria,,,,,,,,,,,,,,,30,0
+Bacillus cereus,84408007.0,SNOMED,bacteria,,,,,,,,,,,,,,,31,0
+Bacteroides fragilis,55247009.0,SNOMED,bacteria,,,,,,,,,,,,,,,32,0
+Bacteroides thetaiotaomicron,34236001.0,SNOMED,bacteria,,,,,,,,,,,,,,,33,0
+Blastocystis hominis,28923009.0,SNOMED,"parasite, Stramenopiles",,,,,,,,,,,,,,,34,0
+Blastomyces dermatitidis,65615007.0,SNOMED,fungi,,,,,,,,,,,,,,,35,0
+Bocavirus (genre),430902006.0,SNOMED,virus,,,,,,,,,,,,,,,36,0
+Bordetella coqueluche,5247005.0,SNOMED,bacteria,,,,,,,,,,,,,,,37,0
+Brugia malais,112443002.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,38,0
+Bunyaviridae (famille),243615000.0,SNOMED,virus,,,,,,,,,,,,,,,39,0
+Burkholderia,414324002.0,SNOMED,bacteria,,,,,,,,,,,,,,,40,0
+Burkholderia cenocepacia,416941006.0,SNOMED,bacteria,,,,,,,,,,,,,,,41,0
+Burkholderia cepacia,113669008.0,SNOMED,bacteria,,,,,,,,,,,,,,,42,0
+Burkholderia pseudomallei,116399000.0,SNOMED,bacteria,,,,,,,,,,,,,,,43,0
+Caliciviridae (famille),243627002.0,SNOMED,virus,,,,,,,,,,,,,,,44,0
+Campylobactérie,35408001.0,SNOMED,bacteria,,,,,,,,,,,,1.0,,,45,0
+Candidose,3265006.0,SNOMED,fungi,,,,,,,,,,,,1.0,,,46,0
+Candida albicans,53326005.0,SNOMED,fungi,,,,,,,,,,,,,,,47,0
+Candida auris,3490000000000.0,SNOMED,fungi,,,,,,,,,,,,,,,48,0
+Candida dubliniensis,115952006.0,SNOMED,fungi,,,,,,,,,,,,,,,49,0
+Candida glabrata,444877006.0,SNOMED,fungi,,,,,,,,,,,,,,,50,0
+Candida inconspicua,283871001.0,SNOMED,fungi,,,,,,,,,,,,,,,51,0
+Orthopsilose à Candida,3690000000000.0,SNOMED,fungi,,,,,,,,,,,,,,,52,0
+Candida parapsilose,61302002.0,SNOMED,fungi,,,,,,,,,,,,,,,53,0
+Candida tropicale,47885008.0,SNOMED,fungi,,,,,,,,,,,,,,,54,0
+Chlamydia,16241000.0,SNOMED,bacteria,,,,,,,,,,,,,,,55,0
+Chlamydophila pneumoniae,103514009.0,SNOMED,bacteria,,,,,,,,,,,,,,,56,0
+Chryseobacterium indogenes,113549008.0,SNOMED,bacteria,,,,,,,,,,,,,,,57,0
+Citrobactérie,75972000.0,SNOMED,bacteria,,,,,,,,,,,,,,,58,0
+Citrobacter braakii,114262000.0,SNOMED,bacteria,,,,,,,,,,,,,,,59,0
+Citrobactérie freundii,6265002.0,SNOMED,bacteria,,,,,,,,,,,,,,,60,0
+Citrobacter koseri,114264004.0,SNOMED,bacteria,,,,,,,,,,,,,,,61,0
+Clavispora lusitaniae,50164000.0,SNOMED,fungi,,,,,,,,,,,,,,,62,0
+Clonorchis sinensis,36559008.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,63,0
+Clostridium botulique,13080008.0,SNOMED,bacteria,,,,,,,,,,,,,,,64,0
+Clostridium difficile,5933001.0,SNOMED,bacteria,,,,,,,,,,,,,,,65,0
+Clostridium difficile (toxine positive),736050006.0,SNOMED,bacteria,,,,,,,,,,,,,,,66,0
+Clostridium tetani,30917009.0,SNOMED,bacteria,,,,,,,,,,,,,,,67,0
+Staphylocoque à coagulase négative,116197008.0,SNOMED,bacteria,,,,,,,,,,,,1.0,,,68,0
+Coccidioides,8672004.0,SNOMED,fungi,,,,,,,,,,,,,,,69,0
+Coccidioides immitis,23439005.0,SNOMED,fungi,,,,,,,,,,,,,,,70,0
+Bactéries coliformes,77309002.0,SNOMED,bacteria,,,,,,,,,,,,,,,71,0
+Coronaviridae (famille),243607003.0,SNOMED,virus,,,,,,,,,,,,,,,72,0
+Corynebactérie,77086004.0,SNOMED,bacteria,,,,,,,,,,,,,,,73,0
+Corynebactérie amycolatum,113611002.0,SNOMED,bacteria,,,,,,,,,,,,,,,74,0
+Corynebacterium pseudodiphtheriticum,12050008.0,SNOMED,bacteria,,,,,,,,,,,,,,,75,0
+Corynebacterium pseudotuberculose,55084001.0,SNOMED,bacteria,,,,,,,,,,,,,,,76,0
+Corynebactérie striatum,63815007.0,SNOMED,bacteria,,,,,,,,,,,,,,,77,0
+Corynebacterium Ulcerans,103428000.0,SNOMED,bacteria,,,,,,,,,,,,,,,78,0
+Corynebacterium xérose,27101006.0,SNOMED,bacteria,,,,,,,,,,,,,,,79,0
+Virus de la fièvre hémorragique de Crimée-Congo (CCHF),79875007.0,SNOMED,virus,,1.0,,,,,,,,,,1.0,,,80,0
+Cryptocoque,17579001.0,SNOMED,bacteria,,,,,,,,,,,,1.0,,,81,0
+Cryptococcus gattii,450862004.0,SNOMED,fungi,,,,,,,,,,,,,,,82,0
+Cryptococcus néoformans,67168003.0,SNOMED,fungi,,,,,,,,,,,,,,,84,0
+Cryptococcus néoformans,83821001.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,85,0
+Cryptosporidium,417722006.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,86,0
+Cryptosporidium hominis,51504002.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,87,0
+Cryptosporidium parvum,33165007.0,SNOMED,fungi,,,,,,,,,,,,,,,89,0
+Curvulaire lunaire,103560006.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,90,0
+Cyclospora,103561005.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,91,0
+Cyclospora cayetanensis,407444007.0,SNOMED,virus,,,,,,,,,,,,1.0,,,92,0
+Cytomégalovirus,416493002.0,SNOMED,bacteria,,,,,,,,,,,,,,,93,0
+Delftie,20432002.0,SNOMED,bacteria,,,,,,,,,,,,,,,94,0
+Delftia acidovorans,83617006.0,SNOMED,virus,,,,,,,,,,,,,,,95,0
+Deltavirus,34348001.0,SNOMED,virus,,,1.0,,,,,,1.0,,1.0,,,1.0,96,0
+Virus de la dengue,413976002.0,SNOMED,bacteria,,,,,,,,,,,,,,,97,0
+Dermabactérie,54642001.0,SNOMED,bacteria,,,,,,,,,,,,,,,98,0
+Diphtéroïde,40406002.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,100,0
+Diphyllobothrium latum,3824001.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,101,0
+Dracunculus medinensis,424206003.0,SNOMED,virus,,1.0,,,,,,,,,,1.0,,,102,0
+Virus Ebola,243672005.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,103,0
+Échinococcus granulosus,414075007.0,SNOMED,bacteria,,,,,,,,,,,,,,,104,0
+Eggerthella,426244005.0,SNOMED,bacteria,,,,,,,,,,,,,,,105,0
+Elizabethkingia,38324000.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,1.0,,,106,0
+Entamoeba,415987008.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,107,0
+Entamoeba dispar,4716008.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,108,0
+Entamoeba histolytique,106544002.0,SNOMED,bacteria,,,,,,,,,,,,,,,109,0
+Bactéries entériques,58683007.0,SNOMED,bacteria,,,,,,,,,,,,1.0,,,110,0
+Entérobactérie,62592009.0,SNOMED,bacteria,,,,,,,,,,,,,,,111,0
+Enterobacter aérogènes,33115003.0,SNOMED,bacteria,,,,,,,,,,,,,,,112,0
+Enterobacter asburiae,114000000000000.0,SNOMED,bacteria,,,,,,,,,,,,,,,113,0
+Enterobacter bugandensis,14385002.0,SNOMED,bacteria,,,,,,,,,,,,,,,114,0
+Enterobacter cloacae,414102007.0,SNOMED,bacteria,,,,,,,,,,,,,,,115,0
+Complexe Enterobacter cloacae,114454006.0,SNOMED,bacteria,,,,,,,,,,,,,,,116,0
+Enterobacter hormaechei,114456008.0,SNOMED,bacteria,,,,,,,,,,,,,,,117,0
+Enterobacter Kobei,106544002.0,SNOMED,bacteria,,,,,,,,,,,,,,,118,0
+Entérobactéries,55008000.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,119,0
+Enterobius vermiculaire,2785000.0,SNOMED,bacteria,,,,,,,,,,,,1.0,,,120,0
+Entérocoque,87875008.0,SNOMED,bacteria,,,,,,,,,,,,,,,121,0
+Entérocoque avium,78065002.0,SNOMED,bacteria,,,,,,,,,,,,,,,122,0
+Enterococcus faecalis,90272000.0,SNOMED,bacteria,,,,,,,,,,,,,,,123,0
+Enterococcus faecium,103437000.0,SNOMED,bacteria,,,,,,,,,,,,,,,124,0
+Enterococcus raffinosus,243633006.0,SNOMED,virus,,,,,,,,,,,,,,,125,0
+Entérovirus (genre Enterovirus),112403007.0,SNOMED,fungi,,,,,,,,,,,,,,,126,0
+Épidermophyton,64735005.0,SNOMED,bacteria,,,,,,,,,,,,,,,127,0
+Escherichia,112283007.0,SNOMED,bacteria,,,,,,,,,,,,1.0,,,128,0
+Escherichia coli,20586007.0,SNOMED,fungi,,,,,,,,,,,,,,,129,0
+Exophiala dermatitidis,48529007.0,SNOMED,fungi,,,,,,,,,,,,,,,130,0
+Falciformispora senegalensis (anciennement Leptosphaeria senegalensis),407325004.0,SNOMED,virus,,,,,,,,,,,,,,,131,0
+Filoviridae (famille),243602009.0,SNOMED,virus,,,,,,,,,,,,1.0,,,132,0
+Flaviviridés (famille),51526001.0,SNOMED,bacteria,,,,,,,,,,,,,,,133,0
+Francisella tularensis,414561005.0,SNOMED,fungi,,,,,,,,,,,,,,,134,0
+Champignons,35238009.0,SNOMED,fungi,,,,,,,,,,,,,,,135,0
+Fusarium,32763000.0,SNOMED,bacteria,,,,,,,,,,,,,,,136,0
+Fusobactérie nucléatum,424421007.0,SNOMED,virus,,1.0,,,,,,,,,,,,,137,0
+Genre Marburgvirus,61419001.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,138,0
+Giardia,78181009.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,139,0
+Giardia intestinale,78181009.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,140,0
+Giardia lamblia,87172008.0,SNOMED,bacteria,,,,,,,,,,,,,,,141,0
+Bacille Gram négatif,83514008.0,SNOMED,bacteria,,,,,,,,,,,,,,,142,0
+Bacille Gram positif,59206002.0,SNOMED,bacteria,,,,,,,,,,,,,,,143,0
+Coccus à Gram positif,113713009.0,SNOMED,bacteria,,,,,,,,,,,,,,,144,0
+Granulicatella adiacens,71268004.0,SNOMED,bacteria,,,,,,,,,,,,,,,145,0
+Hémophilus,64889004.0,SNOMED,bacteria,,,,,,,,,,,,,,,146,0
+Haemophilus ducreyi,44470000.0,SNOMED,bacteria,,,,,,,,,,,,1.0,,,147,0
+Haemophilus influenzae,51593004.0,SNOMED,bacteria,,,,,,,,,,,,,,,148,0
+Haemophilus parainfluenzae,76694001.0,SNOMED,bacteria,,,,,,,,,,,,,,,149,0
+Hafnia alvei,49445003.0,SNOMED,virus,,1.0,,,,,,,,,,,,,150,0
+Hantavirus,80774000.0,SNOMED,bacteria,,,,,,,,,,,,,,,151,0
+Helicobacter pylori,115510008.0,SNOMED,virus,,,,,,,,,,,,,,,152,0
+Virus Hendra,422951006.0,SNOMED,virus,,,,,,,,,,,,,,,153,0
+Hépadnaviridae,32452004.0,SNOMED,virus,,,1.0,,,,,,,,,,,,154,0
+Virus de l'hépatite A,81665004.0,SNOMED,virus,,,1.0,,,,,1.0,,,,,,,155,0
+Virus de l'hépatite B,62944002.0,SNOMED,virus,,,1.0,,,,,1.0,,,,,,,156,0
+Virus de l'hépatite C,83617006.0,SNOMED,virus,,,,,,,,,,,,,,,157,0
+Virus de l'hépatite D,78475006.0,SNOMED,virus,,,,,,,,,,,,,,,158,0
+Virus de l'hépatite E,128377001.0,SNOMED,virus,,,,,,,,,,,,,,,159,0
+Herpèsviridés,81951003.0,SNOMED,fungi,,,,,,,,,,,,,,,160,0
+Histoplasma,56596006.0,SNOMED,fungi,,,,,,,,,,,,,,,161,0
+Histoplasma capsulatum,407451003.0,SNOMED,virus,,,,,,,,,,,,1.0,,,162,0
+"Herpèsvirus humain 1 (HHV1, Herpes simplex virus 1, HSV1)",407450002.0,SNOMED,virus,,,,,,,,,,,,1.0,,,163,0
+"Herpèsvirus humain 2 (HHV2, Herpes Simplex virus 2, HSV2)",19551004.0,SNOMED,virus,,,,1.0,1.0,,,1.0,,,,1.0,,,164,0
+"Herpèsvirus humain 3 (virus varicelle-zona, VZV)",40168006.0,SNOMED,virus,,,,,,,,,,,,1.0,,,165,0
+"Herpèsvirus humain 4 (virus Epstein-Barr, EBV)",243579005.0,SNOMED,virus,,,,,,,,,,,,,,,166,0
+"Herpèsvirus humain 5 (Cytomégalovirus humanbeta5, hCMV)",103528003.0,SNOMED,virus,,,,,,,,,,,,,,,167,0
+Herpèsvirus humain 6 (virus de la roseola infantum),19030005.0,SNOMED,virus,,,1.0,,,,,1.0,,,,,,,168,0
+Virus de l'immunodéficience humaine (VIH),89293008.0,SNOMED,virus,,,,,,,,,,,,,,,169,0
+Virus de l'immunodéficience humaine de type 1 (VIH-1),36115006.0,SNOMED,virus,,,,,,,,,,,,,,,170,0
+Virus de l'immunodéficience humaine de type 2 (VIH-2),416730002.0,SNOMED,virus,,,,,,,,,,,,,,,171,0
+Métapneumovirus humain (hMPV),407498006.0,SNOMED,virus,,,,,,,,,,,,,,,172,0
+Virus parainfluenza humain,407489008.0,SNOMED,virus,,,,,,,,,,,,,,,173,0
+Virus parainfluenza humain 1,407491000.0,SNOMED,virus,,,,,,,,,,,,,,,174,0
+Virus parainfluenza humain 2,407493002.0,SNOMED,virus,,,,,,,,,,,,,,,175,0
+Virus parainfluenza humain 3,89117003.0,SNOMED,virus,,,,,,,,,,,,,,,176,0
+Virus parainfluenza humain 4,63603005.0,SNOMED,virus,,,,,,,,,,,,,,,177,0
+Parvovirus humain b19,6415009.0,SNOMED,virus,,,,,,,,,,,,,,,178,0
+Virus respiratoire syncytial humain (VRS),446373002.0,SNOMED,virus,,,,,,,,,,,,,,,179,0
+Bocavirus humain,84101006.0,SNOMED,virus,,,,,,,,,,,,,,,180,0
+Coronavirus humain,23895005.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,181,0
+Hyménolépis diminuta,74311004.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,182,0
+Hyménolépis nana,442352004.0,SNOMED,virus,1.0,,,,,1.0,,,,1.0,,,,,183,0
+Grippe A H1N1,772827006.0,SNOMED,virus,1.0,,,,,1.0,,,,1.0,,,,,184,0
+Grippe A H5N1,708527000.0,SNOMED,virus,1.0,,,,,1.0,,,,1.0,,,,,185,0
+Grippe A H5N8,715346008.0,SNOMED,virus,1.0,,,,,1.0,,,,1.0,,,,,186,0
+Grippe A H7N7,609444009.0,SNOMED,virus,1.0,,,,,1.0,,,,1.0,,,,,187,0
+Grippe A H7N9,407479009.0,SNOMED,virus,1.0,,,,,1.0,,,,1.0,,,,,188,0
+Virus de la grippe A,407480007.0,SNOMED,virus,1.0,,,,,1.0,,,,1.0,,,,,189,0
+Virus de la grippe B,725894000.0,SNOMED,virus,1.0,,,,,1.0,,1.0,,1.0,,1.0,,,190,0
+Virus de la grippe,12633005.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,191,0
+Isospora belli,243603004.0,SNOMED,virus,,,,,,,,,,,,1.0,,,192,0
+Virus Junin,26352009.0,SNOMED,virus,,,,,,,,,,,,,,,193,0
+Virus Junin,75032006.0,SNOMED,bacteria,,,,,,,,,,,,1.0,,,194,0
+Klebsiella,62592009.0,SNOMED,bacteria,,,,,,,,,,,,,,,195,0
+Klebsiella aérogène,40886007.0,SNOMED,bacteria,,,,,,,,,,,,,,,196,0
+Klebsiella oxytoca,56415008.0,SNOMED,bacteria,,,,,,,,,,,,,,,197,0
+Klebsiella pneumoniae,409801009.0,SNOMED,bacteria,,,,,,,,,,,,,,,198,0
+"Klebsiella pneumoniae, BLSE",431976004.0,SNOMED,bacteria,,,,,,,,,,,,,,,199,0
+Klebsiella variicule,113798001.0,SNOMED,bacteria,,,,,,,,,,,,,,,200,0
+Lacticaseibacillus rhamnosus,85944001.0,SNOMED,virus,,1.0,,,,,,,,,,1.0,,,201,0
+Virus de Lassa,7527002.0,SNOMED,bacteria,,,,,,,,,,,,1.0,,,202,0
+Légionelle,80897008.0,SNOMED,bacteria,,,,,,,,,,,,,,,203,0
+Legionella pneumophila,79357004.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,204,0
+Leishmanie,712933004.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,205,0
+Leishmanie Viannia,83196002.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,206,0
+Leishmanie brésilienne,7400004.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,207,0
+Complexe Leishmania braziliensis,79781008.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,208,0
+Complexe de Leishmania donovani,116401006.0,SNOMED,bacteria,,,,,,,,,,,,,,1.0,209,0
+Interrogateurs de Leptospira,734206002.0,SNOMED,fungi,,,,,,,,,,,,,,,210,0
+Lichtiémie,36094007.0,SNOMED,bacteria,,,,,,,,,,,,,,,211,0
+Listeria monocytogènes,69564000.0,SNOMED,fungi,,,,,,,,,,,,,,,212,0
+Lomentospora prolificans (Scedosporium prlificans),450622000.0,SNOMED,virus,,,,,,,,,,,,,,,213,0
+Virus Lujo,82518003.0,SNOMED,virus,,,,,,,,,,,,,,,214,0
+MERS-CoV,697932005.0,SNOMED,virus,,,,,,,,,,1.0,,1.0,,,215,0
+MERS-CoV,71489006.0,SNOMED,virus,,1.0,,,,,,,,,,,,,216,0
+Virus Machupo,23009007.0,SNOMED,fungi,,,,,,,,,,,,,,,217,0
+Madurelle,51257000.0,SNOMED,fungi,,,,,,,,,,,,,,,218,0
+Malassezia pachydermatis,52584002.0,SNOMED,virus,,,,1.0,1.0,,,,,,,,,,219,0
+Morbillivirus de la rougeole,407501006.0,SNOMED,virus,,,,,,,,,,,,,,,220,0
+Métapneumovirus,115329001.0,SNOMED,bacteria,,,,,,,,,,,,,,,221,0
+Staphylococcus aureus résistant à la méthicilline (SARM),417943000.0,SNOMED,bacteria,,,,,,,,,,,,,,,222,0
+Staphylococcus aureus sensible à la méthicilline (MSSA),29812000.0,SNOMED,fungi,,,,,,,,,,,,,,,223,0
+Meyerozyma guilliermondii,52864008.0,SNOMED,bacteria,,,,,,,,,,,,,,,224,0
+Microcoque,48299003.0,SNOMED,bacteria,,,,,,,,,,,,,,,225,0
+Micrococcus jaune,418382009.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,226,0
+Microsporidies,11983001.0,SNOMED,fungi,,,,,,,,,,,,,,,227,0
+Microsporum,697932005.0,SNOMED,virus,,,,,,,,,,,,,,,228,0
+Coronavirus du syndrome respiratoire du Moyen-Orient,79589007.0,SNOMED,bacteria,,,,,,,,,,,,,,,229,0
+Mirabilis,36361003.0,SNOMED,bacteria,,,,,,,,,,,,,,,230,0
+Moraxelle,24226003.0,SNOMED,bacteria,,,,,,,,,,,,,,,231,0
+Moraxella catarrhalis,50713005.0,SNOMED,bacteria,,,,,,,,,,,,,,,232,0
+Morganelle,243301005.0,SNOMED,bacteria,,,,,,,,,,,,,,,233,0
+Morganella morganii,59774002.0,SNOMED,virus,1.0,,,1.0,1.0,,,1.0,,,,,,,234,0
+Virus Mvariole,49782006.0,SNOMED,fungi,,,,,,,,,,,,,,,235,0
+Mucor,50384007.0,SNOMED,virus,,,,,,,,,,,,1.0,,,236,0
+Virus des oreillons,243368001.0,SNOMED,bacteria,,,,,,,,,,,,,,,237,0
+Mycobactérie,58242002.0,SNOMED,bacteria,,,,,,,,,,,,,,,238,0
+Mycobactérie leprae,113861009.0,SNOMED,bacteria,,,,,,,,,,,,,,,239,0
+Mycobactérie tuberculose,110379001.0,SNOMED,bacteria,,,,,,,,,,,,,,,240,0
+"Mycobactérie, non tuberculeuse",16377009.0,SNOMED,bacteria,,,,,,,,,,,,,,,241,0
+Mycoplasma agalactiae,58720004.0,SNOMED,bacteria,,,,,,,,,,,,,,,242,0
+Mycoplasma pneumoniae,43905006.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,243,0
+Nécator américain,17872004.0,SNOMED,bacteria,,,,,,,,,,,,1.0,,,244,0
+Neisseria méningitidis,47066009.0,SNOMED,fungi,,,,,,,,,,,,,,,245,0
+Neotestudina rosatii (Zopfia rosatii),115511007.0,SNOMED,virus,,,,,,,,,,,,1.0,,,246,0
+virus Nipah,30092002.0,SNOMED,bacteria,,,,,,,,,,,,,,,247,0
+Nocardia astéroïdes,58970008.0,SNOMED,bacteria,,,,,,,,,,,,,,,248,0
+Nocardia brasiliensis,407359000.0,SNOMED,virus,,,,,,,,,,,,,,,249,0
+Norovirus,52397001.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,250,0
+Volvulus d'Onchocerca,55014007.0,SNOMED,virus,,,,,,,,,,,,,,,251,0
+Orthomyxoviridae (virus de la grippe),243584004.0,SNOMED,virus,,,,,,,,,,,,,,,252,0
+Papillomavirus,243587006.0,SNOMED,virus,,,,,,,,,,,,,,,253,0
+Papoviridés,112405000.0,SNOMED,fungi,,,,,,,,,,,,,,,254,0
+Paracoccidioides,58412002.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,255,0
+Paragonimus westermani,128354001.0,SNOMED,virus,,,,,,,,,,,,,,,256,0
+Paramyxoviridés,243587006.0,SNOMED,virus,,,,,,,,,,,,,,,257,0
+Parvoviridés,42993004.0,SNOMED,fungi,,,,,,,,,,,,,,,258,0
+Pénicillium,16452009.0,SNOMED,fungi,,,,,,,,,,,,,,,259,0
+Pichia kudriavzeveii,407344006.0,SNOMED,virus,,,,,,,,,,,,,,,260,0
+Picornaviridés,34706006.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,261,0
+Plasmodium,30020004.0,SNOMED,"parasite, protozoa",,,,,,,,1.0,,,,1.0,,,262,0
+Plasmodium falciparum,56395006.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,1.0,,,263,0
+Plasmodium paludisme,18508006.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,1.0,,,264,0
+Plasmodium ovale,74746009.0,SNOMED,"parasite, protozoa",,,,,,,,1.0,,,,1.0,,,265,0
+Plasmodium vivax,115987006.0,SNOMED,fungi,,,,,,,,,,,,,,,266,0
+Pneumocystis,79909001.0,SNOMED,fungi,,,,,,,,,,,,1.0,,,267,0
+Pneumocystis jirovecii,20484008.0,SNOMED,Prions,,,,,,,,,,,,1.0,,,268,0
+Maladies à prions,34844008.0,SNOMED,bacteria,,,,,,,,,,,,,,,269,0
+Propionibactérie,39473003.0,SNOMED,bacteria,,,,,,,,,,,,,,,270,0
+Propionibactérie acnés,50517009.0,SNOMED,bacteria,,,,,,,,,,,,,,,271,0
+Protée,73457008.0,SNOMED,bacteria,,,,,,,,,,,,,,,272,0
+Proteus mirabilis,45834001.0,SNOMED,bacteria,,,,,,,,,,,,,,,273,0
+Protée vulgaire,14196002.0,SNOMED,bacteria,,,,,,,,,,,,,,,274,0
+Providencia rettgeri,1445008.0,SNOMED,bacteria,,,,,,,,,,,,,,,275,0
+Providence stuartii,57032008.0,SNOMED,bacteria,,,,,,,,,,,,1.0,,,276,0
+Pseudomonas,52499004.0,SNOMED,bacteria,,,,,,,,,,,,,,,277,0
+Pseudomonas aeruginosa,39289003.0,SNOMED,bacteria,,,,,,,,,,,,,,,278,0
+Pseudomonas fluorescens,68608003.0,SNOMED,bacteria,,,,,,,,,,,,,,,279,0
+Pseudomonas putida,59881000.0,SNOMED,virus,,,,,,,,,,,,1.0,,,280,0
+Virus de la rage,417468005.0,SNOMED,bacteria,,,,,,,,,,,,,,,281,0
+Raoultella,416832000.0,SNOMED,bacteria,,,,,,,,,,,,,,,282,0
+Raoultella ornithinolytica,416264004.0,SNOMED,bacteria,,,,,,,,,,,,,,,283,0
+Raoultella planticola,6415009.0,SNOMED,virus,,,,,,,,1.0,,1.0,,,,,284,0
+Virus respiratoire syncytial (VRS),77622001.0,SNOMED,virus,,,,,,,,,,,,1.0,,,285,0
+Rétroviridés,407326003.0,SNOMED,virus,,,,,,,,,,,,,,,286,0
+Rhabdoviridés,85711000.0,SNOMED,fungi,,,,,,,,,,,,,,,287,0
+Rhizomucor,17683005.0,SNOMED,fungi,,,,,,,,,,,,,,,288,0
+Rhizopus,28335002.0,SNOMED,virus,,1.0,,,,,,,,,,,,,289,0
+Virus de la fièvre de la vallée du Rift,32458000.0,SNOMED,virus,,,,,,,,,,,,,,,290,0
+Virus de la rivière Ross,417542000.0,SNOMED,virus,,,,,,,,,,,,,,,291,0
+Rotavirus,5210005.0,SNOMED,virus,,,,,,,,,,,,,,,292,0
+Virus de la rubéole,840533007.0,SNOMED,virus,1.0,,,,,1.0,,1.0,,1.0,,1.0,,,293,0
+SRAS-CoV-2,840533008.0,SNOMED,virus,,,,,,,,,,,,,,,294,0
+SARS-CoV-2 bêta - B.1.351,840533009.0,SNOMED,virus,,,,,,,,,,,,,,,295,0
+Delta du SRAS-CoV-2 - B.1.617.2,840533010.0,SNOMED,virus,,,,,,,,,,,,,,,296,0
+SRAS-CoV-2 Eta - B.1.525,840533011.0,SNOMED,virus,,,,,,,,,,,,,,,297,0
+SARS-CoV-2 Gamma - P.1,840533012.0,SNOMED,virus,,,,,,,,,,,,,,,298,0
+SRAS-CoV-2 Iota - B.1.526,840533013.0,SNOMED,virus,,,,,,,,,,,,,,,299,0
+SRAS-CoV-2 Omicron,840533014.0,SNOMED,virus,,,,,,,,,,,,,,,300,0
+SRAS-CoV-2 Omicron,840533015.0,SNOMED,virus,,,,,,,,,,,,,,,301,0
+SRAS-CoV-2 Omicron - B.1.1.529,840533016.0,SNOMED,virus,,,,,,,,,,,,,,,302,0
+SRAS-CoV-2 Omicron - B.1.1.529.2 BA.2,840533017.0,SNOMED,virus,,,,,,,,,,,,,,,303,0
+SRAS-CoV-2 Omicron - B.1.1.529.5 BA.5,840533018.0,SNOMED,virus,,,,,,,,,,,,,,,304,0
+SARS-CoV-2 Thêta- P.3,840533019.0,SNOMED,virus,,,,,,,,,,,,,,,305,0
+SARS-CoV-2 Zêta - P.2,840533020.0,SNOMED,virus,,,,,,,,,,,,,,,306,0
+SRAS-CoV-2 Alpha - B.1.1.7,840536004.0,SNOMED,virus (substance),,,,,,,,,,,,,,,307,0
+Antigène SRAS-CoV-2,63000000000000.0,SNOMED,virus (substance),,,,,,,,,,,,,,,308,0
+Anticorps IgG SRAS-CoV-2,840535000.0,SNOMED,virus (substance),,,,,,,,,,,,,,,309,0
+Anticorps IgG/IgM contre le SRAS-CoV-2,50600000000000.0,SNOMED,virus (substance),,,,,,,,,,,,,,,310,0
+Anticorps IgM SRAS-CoV-2,765320007.0,SNOMED,fungi,,,,,,,,,,,,,,,311,0
+Saccharomyces cerevisiae,27268008.0,SNOMED,bacteria,,,,,,,,,,,,,,,312,0
+Salmonelle,32488009.0,SNOMED,bacteria,,,,,,,,,,,,,,,313,0
+Salmonella hirschfeldii,407362002.0,SNOMED,virus,,,,,,,,,,,,,,,314,0
+Sapovirus,31901009.0,SNOMED,fungi,,,,,,,,,,,,,,,315,0
+Scédosporium,53583001.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,316,0
+Schistosome,,,"parasite, helminth",,,,,,,,,,,,,,,317,0
+Schistosoma guineensis,3294004.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,318,0
+Schistosoma hématobium,15685002.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,319,0
+Schistosoma intercalatum,5249008.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,320,0
+Schistosoma japonicum,11168007.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,321,0
+Schistosoma mansoni,75475007.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,322,0
+Schistosoma mekongi,42025004.0,SNOMED,bacteria,,,,,,,,,,,,,,,323,0
+Serratie,23787004.0,SNOMED,bacteria,,,,,,,,,,,,,,,324,0
+Serratia liquéfaciens,33522002.0,SNOMED,bacteria,,,,,,,,,,,,,,,325,0
+Serratia marcescens,450416004.0,SNOMED,bacteria,,,,,,,,,,,,,,,326,0
+Serratia ureilytica,1240000000000000.0,SNOMED,virus,,,,,,,,,,,,,,,327,0
+Syndrome respiratoire aigu sévère Coronavirus 2,415360003.0,SNOMED,virus,,,,,,,,,,,,,,,328,0
+Syndrome de fièvre sévère avec thrombocytopénie (SFTS),722401001.0,SNOMED,virus,,,,,,,,,,,,,,,329,0
+Syndrome de fièvre sévère avec thrombocytopénie (SFTS),77352002.0,SNOMED,bacteria,,,,,,,,,,,,,,,330,0
+Shigelle,55462008.0,SNOMED,bacteria,,,,,,,,,,,,,,,331,0
+Shigella boydii,43612004.0,SNOMED,bacteria,,,,,,,,,,,,,,,332,0
+Shigella dysenteriae,85729005.0,SNOMED,bacteria,,,,,,,,,,,,,,,333,0
+Shigella flexneri,4298009.0,SNOMED,bacteria,,,,,,,,,,,,,,,334,0
+Shigella sonnei,314797000.0,SNOMED,virus,,,,,,,,,,,,,,,335,0
+Simplexvirus (genre),243350004.0,SNOMED,bacteria,,,,,,,,,,,,,,,336,0
+Sphingomonas paucimobilis,32662000.0,SNOMED,fungi,,,,,,,,,,,,,,,337,0
+Sporothrix schenckii,65119002.0,SNOMED,bacteria,,,,,,,,,,,,,,,338,0
+Staphylocoque,3092008.0,SNOMED,bacteria,,,,,,,,,,,,,,,339,0
+Staphylocoque doré,40347003.0,SNOMED,bacteria,,,,,,,,,,,,,,,340,0
+Staphylocoque capitis,76969000.0,SNOMED,bacteria,,,,,,,,,,,,,,,341,0
+Staphylocoque caprae,66872005.0,SNOMED,bacteria,,,,,,,,,,,,,,,342,0
+Staphylocoque cohnii,60875001.0,SNOMED,bacteria,,,,,,,,,,,,,,,343,0
+Staphylocoque épidermidis,83452006.0,SNOMED,bacteria,,,,,,,,,,,,,,,344,0
+Staphylocoque hémolytique,44827007.0,SNOMED,bacteria,,,,,,,,,,,,,,,345,0
+Staphylocoque hominis,432505008.0,SNOMED,bacteria,,,,,,,,,,,,,,,346,0
+Staphylococcus hominis hominis,103494005.0,SNOMED,bacteria,,,,,,,,,,,,,,,347,0
+Staphylococcus lugdunensis,428731005.0,SNOMED,bacteria,,,,,,,,,,,,,,,348,0
+Staphylococcus pettenkoferi,19743000.0,SNOMED,bacteria,,,,,,,,,,,,,,,349,0
+Staphylococcus saprophyticus,52122005.0,SNOMED,bacteria,,,,,,,,,,,,,,,350,0
+Staphylocoque simulans,63550006.0,SNOMED,bacteria,,,,,,,,,,,,,,,351,0
+Staphylococcus warneri,115656007.0,SNOMED,bacteria,,,,,,,,,,,,,,,352,0
+Sténotrophomonas,113697002.0,SNOMED,bacteria,,,,,,,,,,,,,,,353,0
+Stenotrophomonas maltophilie,58800005.0,SNOMED,bacteria,,,,,,,,,,,,1.0,,,354,0
+Streptocoque,60631002.0,SNOMED,bacteria,,,,,,,,,,,,,,,355,0
+Streptocoque alpha-hémolytique,44304009.0,SNOMED,bacteria,,,,,,,,,,,,,,,356,0
+Streptocoque angineux,415597009.0,SNOMED,bacteria,,,,,,,,,,,,,,,357,0
+Groupe Streptococcus anginosus,53490009.0,SNOMED,bacteria,,,,,,,,,,,,,,,358,0
+Streptocoque bêta-hémolytique,76199005.0,SNOMED,bacteria,,,,,,,,,,,,,,,359,0
+Streptocoque constellatus,40812000.0,SNOMED,bacteria,,,,,,,,,,,,,,,360,0
+Streptocoque dysgalactiae,113985000.0,SNOMED,bacteria,,,,,,,,,,,,,,,361,0
+Streptocoque gallolytique,62170002.0,SNOMED,bacteria,,,,,,,,,,,,,,,362,0
+Streptocoque intermédiaire,57997003.0,SNOMED,bacteria,,,,,,,,,,,,,,,363,0
+Streptocoque mitis,19870004.0,SNOMED,bacteria,,,,,,,,,,,,,,,364,0
+Streptocoque oral,113990002.0,SNOMED,bacteria,,,,,,,,,,,,,,,365,0
+Streptocoque parasanguinis,9861002.0,SNOMED,bacteria,,,,,,,,,,,,,,,366,0
+Streptococcus pneumoniae,80166006.0,SNOMED,bacteria,,,,,,,,,,,,,,,367,0
+Streptocoque pyogène,39888004.0,SNOMED,bacteria,,,,,,,,,,,,,,,368,0
+Streptocoque salivaire,113993000.0,SNOMED,bacteria,,,,,,,,,,,,,,,369,0
+Streptocoque sanguinis,31703004.0,SNOMED,bacteria,,,,,,,,,,,,,,,370,0
+Streptocoque viridans,31703004.0,SNOMED,bacteria,,,,,,,,,,,,,,,371,0
+Groupe Streptococcus viridans,42625000.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,372,0
+Strongyloides stercoralis,61085008.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,373,0
+Tænia saginata,17966003.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,374,0
+Tænia solium,71825007.0,SNOMED,fungi,,,,,,,,,,,,,,,375,0
+Talaromyces marneffei,129231002.0,SNOMED,virus,,,,,,,,,,,,,,,376,0
+Togoviridés,88857009.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,377,0
+Toxocara canis,61949005.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,378,0
+Toxoplasme,4649006.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,1.0,,,379,0
+Toxoplasma gondii,16439004.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,380,0
+Trichinelle spirale,3764006.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,381,0
+Trichomonas,22417000.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,382,0
+Trichomonas vaginalis,88578003.0,SNOMED,fungi,,,,,,,,,,,,,,,383,0
+Trichophyton,243475001.0,SNOMED,fungi,,,,,,,,,,,,,,,384,0
+Trichosporon asahii,5378007.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,385,0
+Trichuris trichiura,40740003.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,386,0
+Trypanosome,20027006.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,387,0
+Trypanosoma brucei gambiense,79513002.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,388,0
+Trypanosoma brucei rhodesiense,88274000.0,SNOMED,"parasite, protozoa",,,,,,,,,,,,,,,389,0
+Trypanosoma cruzi,113727004.0,SNOMED,bacteria,,,,,,,,,,,,,,,390,0
+Entérocoque résistant à la vancomycine (ERV),75953000.0,SNOMED,bacteria,,,,,,,,,,,,,,,391,0
+Vibrio cholérique,11736008.0,SNOMED,bacteria,,,,,,,,,,,,,,,392,0
+Vibrio parahaemolyticus,55905000.0,SNOMED,bacteria,,,,,,,,,,,,,,,393,0
+Vibrio vulnificus,57311007.0,SNOMED,virus,,,,,,,,,,,,1.0,,,394,0
+Virus du nil occidental,84925004.0,SNOMED,"parasite, helminth",,,,,,,,,,,,,,,395,0
+Wuchereria bancrofti,62093005.0,SNOMED,fungi,,,,,,,,,,,,,,,396,0
+Levure,54365000.0,SNOMED,bacteria,,,,,,,,,,,,,,,397,0
+Yersinia pestis,50471002.0,SNOMED,virus,,,,,,,,,1.0,,,1.0,,1.0,398,0
+Virus chikungunya,,,virus,,,,,,,,,1.0,,,,,1.0,399,0
+Virus de l'Oropouche,,,virus,,,,,,,,,1.0,,,,,,400,0

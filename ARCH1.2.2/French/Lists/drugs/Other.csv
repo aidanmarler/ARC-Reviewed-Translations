@@ -1,0 +1,36 @@
+Drugs,Code,Library,Selected,preset_Respiratory,preset_ARChetype Disease CRF_Covid,preset_ARChetype Disease CRF_Dengue,preset_ARChetype Disease CRF_Mpox,preset_ARChetype Disease CRF_Mpox Pregnancy and Paediatric,preset_ARChetype Disease CRF_H5Nx,preset_ARChetype Disease CRF_Mpox-Pregnancy&Paediatrics,preset_ARChetype Syndromic CRF_ARI,Comment,Value,Translation Reviewers
+Aminophylline (Truphylline)," R03DA05   "," ATC     ",,,,,,,,,,,1,0
+"Béclométasone (Qvar, Beconase AQ)"," R03BA01   "," ATC     ",,,,,,,,,,,2,0
+Caspofongine (Cancidas)," J02AX04   "," ATC     ",,,,,,,,,,,3,0
+Chloroquine (Aralen)," P01BA01   "," ATC     ",,,1.0,,,,,,1.0,,4,0
+"Clobétasol (Temovate, Olux, Impoyz)",D07AD01,ATC,,,,,,,,,,Topical,5,0
+Fluconazole (Diflucan)," J02AC01   "," ATC     ",,,,,,,,,,,6,0
+"Fluticasone (Flovent, Flonase)"," R03BA05   "," ATC     ",,,,,,,,,,,7,0
+Furoate de fluticasone," R03BA09"," ATC     ",,,,,,,,,,,8,0
+"Formotérol (Foradil, Performomist)"," R03AC13"," ATC     ",,,,,,,,,,,9,0
+Formotérol et béclométasone (Fostair)," R03AK11   "," ATC     ",,,,,,,,,,,10,0
+Formotérol et budésonide (Symbicort)," R03AK07   "," ATC     ",,,,,,,,,,,11,0
+Bromure de glycopyrronium (Seebri)," R03BB06   "," ATC     ",,,,,,,,,,,12,0
+Hydroxychloroquine (Plaquenil)," P01BA02   "," ATC     ",,,,,,,,,,,13,0
+"Imiquimod (Aldara, Zyclara)","D06BB10  ",ATC,,,,,,,,,,Topical/Locally acting,14,0
+Indacatérol et bromure de glycopyrronium (Ultibro Breezhaler)," R03AL04"," ATC     ",,,,,,,,,,,15,0
+Interféron alpha," L03AB01 "," ATC     ",,,1.0,,,,,,1.0,,16,0
+Interféron bêta," L03AB02 "," ATC     ",,,1.0,,,,,,1.0,,17,0
+Bromure d'ipratropium (Atrovent)," R03BB01   "," ATC     ",,,,,,,,,,,18,0
+Ivermectine (Stromectol)," P02CF01   "," ATC     ",,,,,,,,,,,19,0
+Mafénide (Sulfamylon),D06BA03,ATC,,,,,,,,,,Topical,20,0
+"Mométasone (Asmanex, Nasonex)"," R03BA07"," ATC     ",,,,,,,,,,,21,0
+Montélukast (singulair)," R03DC03   "," ATC     ",,,,,,,,,,,22,0
+Mupirocine (Bactroban),D06AX09,ATC,,,,,,,,,,Topical/Locally acting,23,0
+"Nystatine (Bio-statine, Nyamyc)",A02AA01,ATC,,,,,,,,,,Locally acting,24,0
+"Podophyllotoxine (Podofilox, Condylox)","D06BB04 ",ATC,,,,,,,,,,Topical,25,0
+Primaquine," P01BA03   "," ATC     ",,,,,,,,,,,26,0
+"Salbutamol (Ventoline, Proventil)"," R03AC02   "," ATC     ",,,,,,,,,,,27,0
+Salmétérol (Serevent)," R03AC12   "," ATC     ",1.0,,,,,,,,,,28,0
+"Salmétérol et Fluticasone (Advair, Seretide)"," R03AK06   "," ATC     ",,,,,,,,,,,29,0
+Soufre précipité dans la vaseline,D10AB02,ATC,,,,,,,,,,Topical,30,0
+"Théophylline (Théo-24, Elixophylline)"," R03DA04   "," ATC     ",,,,,,,,,,,31,0
+Bromure de tiotropium (Spiriva)," R03BB04   "," ATC     ",,,,,,,,,,,32,0
+Acide trichloroacétique,78151001,SNOMED,,,,,,,,,,Topical,33,0
+Vilantérol et furoate de fluticasone (Breo Ellipta)," R03AK10   "," ATC     ",,,,,,,,,,,34,0
+Vilantérol et bromure d'uméclidinium (Anoro Ellipta),R03AL03," ATC     ",1.0,,,,,,,,,,35,0
