@@ -9,7 +9,7 @@ on:
 jobs:
   dispatch:
     runs-on: ubuntu-latest
-    if: github.actor != 'aidanmarler'
+    if: github.actor != 'aidanmarler' || github.event_name == 'workflow_dispatch'
     steps:
       - name: Trigger LINK update
         run: |
