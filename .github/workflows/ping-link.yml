@@ -4,11 +4,12 @@ on:
   push:
       branches:
        - main
+  workflow_dispatch:
 
 jobs:
   dispatch:
     runs-on: ubuntu-latest
-    if: github.actor != 'ai dan marler1'
+    if: github.actor != 'aidanmarler'
     steps:
       - name: Trigger LINK update
         run: |
